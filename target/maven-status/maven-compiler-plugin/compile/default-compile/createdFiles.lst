@@ -1,0 +1,9 @@
+SSquareIT\SeleniumFramework\CheckOutPage.class
+SSquareIT\SeleniumFramework\LandingPage.class
+SSquareIT\SeleniumFramework\LoginPage.class
+SSquareIT\SeleniumFramework\HomePage.class
+resources\ExtentReportNG.class
+SSquareIT\SeleniumFramework\CartPage.class
+SSquareIT\SeleniumFramework\ProductPage.class
+SSquareIT\SeleniumFramework\ProductDetails.class
+Utilities\BasePageClass.class

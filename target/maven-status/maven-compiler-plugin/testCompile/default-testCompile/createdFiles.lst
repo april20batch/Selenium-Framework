@@ -1,0 +1,5 @@
+SSquareIT\SeleniumFramework\E2ETest.class
+SSquareIT\SeleniumFramework\E2ETest2.class
+SSquareIT\SeleniumFramework\VerifyInvalidLogin.class
+testComponenets\BaseTest.class
+testComponenets\Listeners.class
